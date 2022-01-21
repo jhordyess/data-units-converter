@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/data-units-converter/static/css/main.04b42538.css",
+    "main.js": "/data-units-converter/static/js/main.e20d0f5a.js",
+    "index.html": "/data-units-converter/index.html",
+    "main.04b42538.css.map": "/data-units-converter/static/css/main.04b42538.css.map",
+    "main.e20d0f5a.js.map": "/data-units-converter/static/js/main.e20d0f5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04b42538.css",
+    "static/js/main.e20d0f5a.js"
+  ]
+}
